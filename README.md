@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m interested in **Python and Java**
+- 🔭 I’m interested in **Python and Node**
 
-- 🌱 I’m currently learning **Javascript,Node.js and React,js .**
+- 🌱 I’m currently learning **Vue js and Angular.**
 
 - 👯 I’m looking to collaborate on **Blockchain Development**
 
